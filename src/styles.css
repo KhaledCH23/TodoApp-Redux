@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px 400px;
+}
+
+/* body {
+    font: 16px/1.8 sans-serif;
+    background-image: linear-gradient(-30deg, #E6F0FC, #BDE5D1)
+} */
+
+
+/* //////////////////////////////////////////// */
+
+.title {
+    background-color: #35495d;
+    color: white;
+}
+.conatiner {
+    margin: 50px;
+
+}
